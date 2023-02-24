@@ -13,3 +13,6 @@
 | 신공섭    | https://github.com/gong25      |
 | 윤동희    | https://github.com/dhsimpson   |
 | 이유태    | https://github.com/dobidugi    |
+
+### 과제
+1. [멘토 과제](https://github.com/wanted-pre-onboarding-internship-1team/wanted-pre-onboarding-internship-1team-project_1) (22.02.22 ~ 22.02.24)
