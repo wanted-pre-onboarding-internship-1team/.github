@@ -21,4 +21,5 @@
 </table>
 
 ### 🚀 과제
-1. [멘토 과제](https://github.com/wanted-pre-onboarding-internship-1team/wanted-pre-onboarding-internship-1team-project_1) (22.02.22 ~ 22.02.24)
+1. [멘토 과제](https://github.com/wanted-pre-onboarding-internship-1team/wanted-pre-onboarding-internship-1team-project_1) (23.02.21 ~ 23.02.24)
+1. [기업 과제 1](https://github.com/wanted-pre-onboarding-internship-1team/wanted-pre-onboarding-internship-1team-project_2) (23.03.07 ~ 23.03.10)
